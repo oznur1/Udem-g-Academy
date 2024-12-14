@@ -11,3 +11,6 @@ Responsive Design: Perfect appearance and use on mobile, tablet and desktop devi
 
 # Modern Design
 Modern and Stylish Design: Simple, clean and user-friendly interface is optimized to increase user interaction. Suitable for Udemig Akamedi Theme: Color and style choices that reflect Udemig's education-oriented and professional atmosphere.
+
+# Screenshot
+![UDEMIGACADEMY-GoogleChrome2024-10-2920-09-02-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/c57bf702-38ca-426f-94fa-8896045a2a09)
